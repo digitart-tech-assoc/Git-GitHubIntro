@@ -136,7 +136,7 @@ git config --global init.defaultBranch main
 1. VSCodeの左部バーにある`ソース管理`から`ブランチ`をクリックして、`ブランチの作成`をクリック
 ![ブランチの作成を選択](data/1.1.1.1.jpg)
 2. 新しく作るブランチの名前を入力して"Enter"を押す  
-ここでの名前は"selfIntro_{userName}"を推奨する
+ここでの名前は"selfIntro/{userName}"を推奨する
 ![名前を入力し作成](data/1.1.1.2.jpg)
 > [!NOTE]
 > ウインドウ左下部に現在のブランチが表示されています。 
