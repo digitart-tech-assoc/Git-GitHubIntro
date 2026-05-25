@@ -93,11 +93,16 @@ Gitのインストール時にはいくつかの設定が求められます。
 ターミナルで以下のコマンドを実行する。
 ```
 # ユーザー名の設定。GitHubのIDがおすすめ
+# 例: git config --global user.name chrom9103
 git config --global user.name {userName}
+
 # メールアドレスの設定。GitHubと同じものがおすすめ
+# 例: git config --global user.email chrom9103@example.com
 git config --global user.email {userEmail}
+
 # コミットメッセージをVScodeで書けるようにする設定
 git config --global core.editor 'code --wait'
+
 # デフォルトのブランチをmasterからmainに変更。
 git config --global init.defaultBranch main
 ```
