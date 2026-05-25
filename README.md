@@ -53,7 +53,7 @@ GitはGitHubを活用する上で必要なシステムです。[こちら](https
 
 > [!IMPORTANT]
 > GitHubのアカウント名を教えてください！
-> Discord上のチャンネル`Git-GitHub講習会`( [リンク](https://discord.com/channels/1304058364560543815/1304084983228399638 ))にて自分のアカウント名（例: chrom9103）を送信してください
+> Discord上のチャンネル`講習会(2026年度) > Git-GitHub講習会`( [リンク](https://discord.com/channels/1304058364560543815/1508342177514918008 ))にて自分のアカウント名（例: chrom9103）を送信してください
 
 <details><summary>Gitのインストールについて</summary>
 
