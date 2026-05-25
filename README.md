@@ -106,6 +106,15 @@ git config --global core.editor 'code --wait'
 # デフォルトのブランチをmasterからmainに変更。
 git config --global init.defaultBranch main
 ```
+  
+<details><summary>なんでこの設定がいるの？</summary>
+
+GitはLinuxを開発するために作られたシステムです。  
+Linuxはオープンソース(世界中の人が開発に参加できる)のOSです。OSはWindowsとかMacとか、そういうやつです。  
+Linuxは世界中の人が開発に参加できるため、誰がどんな変更を加えたのかを管理する必要があります。そこで変更を加えた人の名前とメールアドレスを記録するようにしました。  
+その名残から、現在のGitでも開発を始める前に必ず名前とメールアドレス（user.name と user.email）を設定するルールになっています。  
+
+</details>
 
 > [!WARNING]
 > この資料では{}で括られているところは自分の情報に合わせて書き換えてください  
